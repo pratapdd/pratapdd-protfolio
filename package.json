@@ -35,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "PratapDd Portfolio",
+  "main": "index.js",
+  "repository": "https://github.com/pratapdd/pratapdd-protfolio.git",
+  "author": "Pratap Dessai <pratapdd@yahoo.co.in>",
+  "license": "MIT"
 }
