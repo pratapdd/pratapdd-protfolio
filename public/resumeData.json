@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Pratap Dessai",
+    "occupation": "Senior Frontend Developer",
+    "description": "Just Javascript",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Pratap! I've been coding for more than 10 years now. As a Frontend developer I've worked both with startups and large corporations to help build & scale their products. I have about ​6+ years of UI and Javascript experience as Lead/Senior Front end developer.",
+    "contactmessage": "Keep in touch over linkedin!",
+    "email": "pratapdd@yahoo.co.in",
+    "phone": "+33 7xxxxxxxx",
+    "address": {
+      "street": "Paris",
+      "city": "Paris",
+      "state": "Île-de-France",
+      "zip": "(75)"
+    },
+    "website": "https://www.linkedin.com/in/pratap-dessai-9b807713/",
+    "resumedownload": "https://drive.google.com/file/d/1hdvPN1x5tbrwdmEZdkDd9MC30wYUts0_/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/pratap.dessai",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pratap-dessai-9b807713/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/pratapdd",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Birla Institute of Technology and Science, Pilani, India",
+        "degree": "Master Degree, Software System",
+        "graduated": "March 2011",
+        "description": "8.4 CGPA"
+      },
+      {
+        "school": "Rayeshwar Institute of Technology and Science, Shiroda, Goa, India",
+        "degree": "Bachelor's degree, Electronics & Telecommunication",
+        "graduated": "June 2007",
+        "description": "76.58% (Distinction)"
+      }
+    ],
+    "work": [
+      {
+        "company": "Adevinta (Leboncoin)",
+        "title": "Senior Frontend Developer",
+        "years": "Aug 2019 - Present",
+        "description": "Development of ​Moderation Portal for ​Fraud Detection team which is used across Europe by more than 10 classified marketplaces(​Leboncoin​, Subito, Willhaben, Milanuncius, ​OLX​) using ​React​, ​Graphql​, ​Typescript​."
+      },
+      {
+        "company": "Inmobi",
+        "title": "Senior Frontend Developer",
+        "years": "Nov 2011 - Aug 2019",
+        "description": "Development of ​Creative Server in NodeJs Cluster mode, creation of loader script for render of Ads. Worked on development of portal to onboard ​Video creatives​ using Google’s ​Polymer​ library/ ​web Components​. Earlier I was involved in development of automation framework/solution, Javascript development, Designing web site portal, Unit Testing, Debugging."
+      },
+      {
+        "company": "McAfee",
+        "title": "Senior Software Engineer",
+        "years": "Jan 2010 - Nov 2011",
+        "description": "Automation testing and Tools development."
+      },
+      {
+        "company": "Siemens",
+        "title": "Software Engineer",
+        "years": "July 2007 - Dec 2009",
+        "description": "Automation testing and Tools development."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Graphql",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Under construction",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Under construction",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Under construction",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Pratap quickly moved from ad serving team to lead frontend developer on Studio after excelling across the full stack. His quick wit brought levity to the 24 hour development cycle. After producing a few components for HTML5 rich media designer some years ago, Pratap became fully versed in Javascript. He would be an asset on any team!",
+        "user": "Adam Nisenbaum"
+      },
+      {
+        "text": "Attention-to-detail is the phrase that comes to mind when I think about Pratap. Also, I was impressed with Pratap's ability of keen observation. And, of course, his thirst for knowledge. Built some of the crucial internal tools which has been very helpful to not only him but others as well. Pratap would be a true asset for any positions requiring JavaScript, HTML5/Video",
+        "user": "Deepak Rai"
+      }
+    ]
+  }
+}
